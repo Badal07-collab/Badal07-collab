@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badal07-collab" alt="badal07-collab" /></a> </p>
 
-- 🌱 I’m currently learning **Power BI, ML, Python, Tableau,**
+- 🌱 I’m currently learning **Power BI, MySQl, Python, Tableau,**
 
 - 👯 I’m looking to collaborate on **Analytical Dashboard Projects**
 
